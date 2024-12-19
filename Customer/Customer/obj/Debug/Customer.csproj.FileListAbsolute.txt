@@ -1,0 +1,16 @@
+C:\Users\marchie\Documents\Pre-Defense\PreDefense\Customer\Customer\bin\Debug\Customer.exe.config
+C:\Users\marchie\Documents\Pre-Defense\PreDefense\Customer\Customer\bin\Debug\Customer.exe
+C:\Users\marchie\Documents\Pre-Defense\PreDefense\Customer\Customer\bin\Debug\Customer.pdb
+C:\Users\marchie\Documents\Pre-Defense\PreDefense\Customer\Customer\obj\Debug\Customer.Cart.resources
+C:\Users\marchie\Documents\Pre-Defense\PreDefense\Customer\Customer\obj\Debug\Customer.FRUIT_TEA.resources
+C:\Users\marchie\Documents\Pre-Defense\PreDefense\Customer\Customer\obj\Debug\Customer.START.resources
+C:\Users\marchie\Documents\Pre-Defense\PreDefense\Customer\Customer\obj\Debug\Customer.MILK_TEA.resources
+C:\Users\marchie\Documents\Pre-Defense\PreDefense\Customer\Customer\obj\Debug\Customer.Properties.Resources.resources
+C:\Users\marchie\Documents\Pre-Defense\PreDefense\Customer\Customer\obj\Debug\Customer.Special.resources
+C:\Users\marchie\Documents\Pre-Defense\PreDefense\Customer\Customer\obj\Debug\Customer.SPECIAL_DRINKS.resources
+C:\Users\marchie\Documents\Pre-Defense\PreDefense\Customer\Customer\obj\Debug\Customer.csproj.GenerateResource.Cache
+C:\Users\marchie\Documents\Pre-Defense\PreDefense\Customer\Customer\obj\Debug\Customer.exe
+C:\Users\marchie\Documents\Pre-Defense\PreDefense\Customer\Customer\obj\Debug\Customer.pdb
+C:\Users\marchie\Documents\Pre-Defense\PreDefense\Customer\Customer\obj\Debug\Customer.Customization.resources
+C:\Users\marchie\Documents\Pre-Defense\PreDefense\Customer\Customer\obj\Debug\Customer.CheckOut.resources
+C:\Users\marchie\Documents\Pre-Defense\PreDefense\Customer\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
